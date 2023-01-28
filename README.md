@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amrelbardini, Software Development Engineer
 - 👀 I’m interested in ... Web development & software engineering
 - 🌱 I’m currently learning ... Angular Framework
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...UI implementation-Angular-TypeScript-Responsive UI
 - 📫 How to reach me ... you could always send me an email on amrraafat17@yahoo.com
 
 <!---
